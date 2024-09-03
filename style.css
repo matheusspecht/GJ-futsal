@@ -1,6 +1,8 @@
 body{
 background-color: rgb(9, 10, 10);
-color: rgb(245, 242, 242);
+color: rgb(22, 221, 188);
+font-family: "Merienda", cursive;
+padding: 0 100px;
 }
  
 header{
@@ -12,7 +14,7 @@ padding:40px;
 color: #FFF;
 font-size:30px;
 text-decoration:none;
-background-color: blueviolet;
+background:linear-gradient(red,purple);
 padding:15px 25px;
 border-radius:30px;
 }
